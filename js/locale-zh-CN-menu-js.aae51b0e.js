@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["locale-zh-CN-menu-js"],{"1dec":function(e,r,o){"use strict";o.r(r),r["default"]={home:"首页",fileList:"文件列表",test:"实验功能","account-center":"个人中心",dashboard:"工作空间","error-403":"403","error-404":"404","error-500":"500",permission:"系统权限","permission-test":"权限测试",userManage:"用户管理",roleManage:"角色管理",error:"错误页面"}}}]);
